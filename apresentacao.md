@@ -8,7 +8,7 @@
 [logo]: https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif
 
 Como esse sistema operando em nosso gruppo, queremos mostrar que estamos precupados com os ativos (equipamentos) da empresa,
-sendo assim de nossa resposabilidade sabe onde e com quem esta cada ativo (equipamento) cadastrado no sistema.
+sendo assim de nossa resposabilidade saber onde e com quem esta cada ativo (equipamento) cadastrado no sistema.
 
 #### Seu objetivo:
 
@@ -17,12 +17,12 @@ sendo assim de nossa resposabilidade sabe onde e com quem esta cada ativo (equip
 
 ### Integração
 
-* Servidor de AD
-* Slack bot
+* Servidor de AD - Junto ao active directory do nosso dominio conseguimos alocar cada usuário ao seu equipamento
+* Slack bot - a cada inserção ou alteração de ativo é enviado uma notificação no nosso canal do Slack
 
 ### Como onde nasceu o sistema
 
-O SISA nasceu atraveś do SNIPE-IT, um software de código aberto.
+O SISA nasceu atraveś do SNIPE-IT, um software de código aberto [LINK] (https://github.com/snipe/snipe-it).
 Relizamos a implantação da aplicação junto ao K8S, seu banco de dados esta rodando em uma RDS
 para garantir uma boa segurança dos dados
 
