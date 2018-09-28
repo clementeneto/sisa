@@ -1,14 +1,14 @@
 # SISA
 ### Sistema de Ativos do GrupoZAP
 
-#### Mas a final o que é esta tal de SISA ??
+#### Mas a final para que server esse tal de SISA ??
 
 ![alt text][logo]
 
 [logo]: https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif
 
-Como esse sistema operando em nosso gruppo, queremos mostrar que estamos precupados com os ativos (equipamentos) da empresa,
-sendo assim de nossa resposabilidade saber onde e com quem esta cada ativo (equipamento) cadastrado no sistema.
+Com esse sistema operando no grupozap, queremos mostrar que estamos preucupados com os ativos (equipamentos) da empresa,
+sendo assim de nossa resposabilidade, saber onde e com quem esta alocado cada ativo (equipamento) cadastrado no sistema.
 
 #### Seu objetivo:
 
