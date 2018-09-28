@@ -13,7 +13,8 @@ sendo assim de nossa resposabilidade, saber onde e com quem esta alocado cada at
 #### Seu objetivo:
 
 * Armazenar os ativos do grupo (notebooks, desktops e monitores)
-* Alocar e rastrear com quem esta determinados equipamentos
+* Alocar e rastrear com quem esta determinados equipamentos.
+* 
 
 ### Integração
 
