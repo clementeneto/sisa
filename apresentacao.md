@@ -13,7 +13,7 @@ sendo assim de nossa resposabilidade, saber onde e com quem esta alocado cada at
 #### Seu objetivo:
 
 * Armazenar os ativos do grupo (notebooks, desktops e monitores)
-* Alocar e rastrear com quem esta determinado equipamento
+* Alocar e rastrear com quem esta determinados equipamentos
 
 ### Integração
 
@@ -22,5 +22,5 @@ sendo assim de nossa resposabilidade, saber onde e com quem esta alocado cada at
 
 ### Como onde nasceu o sistema
 
-O SISA nasceu atraveś do SNIPE-IT, um software de código aberto [LINK](https://github.com/snipe/snipe-it),
-implantação da aplicação junto ao K8S, seu banco de dados esta rodando em uma RDS para garantir uma boa segurança dos dados
+O SISA nasceu atraveś do SNIPE-IT, um software de código aberto [LINK](https://github.com/snipe/snipe-it), a 
+aplicação esta rodando no K8S (Kubernetes), seu dados estão sendo armazenaso em uma RDS para garantir uma boa segurança das informaçẽos.
