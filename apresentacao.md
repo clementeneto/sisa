@@ -20,11 +20,11 @@ sendo assim de nossa resposabilidade sabe onde e com quem esta cada ativo (equip
 * Servidor de AD
 * Slack bot
 
-### De onde nasceu o sistema
+### Como onde nasceu o sistema
 
-O SISA nasceu atraveś do SNIPE-IT, é um software de código aberto.
-relizamos a implantação da aplicação junto ao K8S, seu banco de dados esta rodando em uma RDS
-para garantirmos uma boa segurança dos dados que são gravados no mesmo
+O SISA nasceu atraveś do SNIPE-IT, um software de código aberto.
+Relizamos a implantação da aplicação junto ao K8S, seu banco de dados esta rodando em uma RDS
+para garantir uma boa segurança dos dados
 
 
 
